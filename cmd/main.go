@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Yandex-Practicum/go-1fl-homework-sprint5/.github/workout"
+	"github.com/Yandex-Practicum/go-1fl-homework-sprint5/internal/workout"
 	"time"
 )
 
